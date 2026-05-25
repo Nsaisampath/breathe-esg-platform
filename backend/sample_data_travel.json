@@ -1,0 +1,44 @@
+[
+  {
+    "date": "2026-05-01",
+    "employee": "Raj Kumar",
+    "from_airport": "DEL",
+    "to_airport": "BOM",
+    "flight_class": "economy"
+  },
+  {
+    "date": "2026-05-03",
+    "employee": "Priya Singh",
+    "from_airport": "BLR",
+    "to_airport": "MAA",
+    "flight_class": "business"
+  },
+  {
+    "date": "2026-05-05",
+    "employee": "Amit Patel",
+    "from_airport": "PNQ",
+    "to_airport": "DEL",
+    "flight_class": "economy"
+  },
+  {
+    "date": "2026-05-07",
+    "employee": "Neha Verma",
+    "from_airport": "DEL",
+    "to_airport": "BLR",
+    "flight_class": "business"
+  },
+  {
+    "date": "2026-05-09",
+    "employee": "Rohit Desai",
+    "from_airport": "BOM",
+    "to_airport": "PNQ",
+    "flight_class": "economy"
+  },
+  {
+    "date": "2026-05-10",
+    "employee": "Anjali Rao",
+    "from_airport": "HYD",
+    "to_airport": "BLR",
+    "flight_class": "economy"
+  }
+]
