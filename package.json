@@ -1,0 +1,8 @@
+{
+  "name": "breathe-esg-platform",
+  "version": "1.0.0",
+  "description": "ESG Emissions Tracking Platform",
+  "scripts": {
+    "build": "cd frontend && npm install && npm run build"
+  }
+}
