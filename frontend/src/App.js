@@ -6,7 +6,7 @@ import RecordsPage from './pages/RecordsPage';
 import ReviewPage from './pages/ReviewPage';
 
 export default function App() {
-  const [activeCompanyId, setActiveCompanyId] = useState(1);
+  const [activeCompanyId] = useState(1);
 
   return (
     <Router>
