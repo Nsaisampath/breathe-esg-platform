@@ -1,1 +1,1 @@
-web: cd backend && gunicorn breathe_esg.wsgi
+web: cd backend && python manage.py migrate && gunicorn breathe_esg.wsgi
