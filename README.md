@@ -6,6 +6,17 @@ ESG emissions ingestion and analyst review platform. Companies upload data (SAP 
 - Frontend: https://breathe-esg-platform-hem2rufgv-nsaisampaths-projects.vercel.app/
 - Backend API: https://breathe-esg-api-tmp2.onrender.com
 
+  
+## Backend Note
+
+The backend is an API-only Django service.
+The root URL (`/`) intentionally returns `404 Not Found`.
+
+Use:
+
+* `/health/` for deployment health checks
+* `/api/...` endpoints for application data
+
 ---
 
 ## Setup
